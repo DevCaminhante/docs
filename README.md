@@ -1,6 +1,10 @@
-
 # Docs
 Este repositório contem toda a documentação que é usada no projeto DevCaminhante.
+
+## Conteúdo
+
+* [Regras](regras.md)
+* [Links Proibidos](links-proibidos.md)
 
 ## Licença
 
