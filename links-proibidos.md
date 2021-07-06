@@ -1,7 +1,7 @@
 
 # LINKS PROIBIDOS NO DEVCAMINHANTE
 
-Neste arquivo Markdown constam os links (ou partes de links) proibidos no DevCaminhante. Estes não necessariamente violam nossas regras (https://telegra.ph/REGRAS-DA-COMUNIDADE-DEVCAMINHANTE-05-28), mas como podem ser links frequentemente usados por quem entra no grupo só com o objetivo de enviar códigos de referência, de afiliado, tokens, tracking, etc, proibi-los manterá o foco do grupo e evitará o uso do grupo como "trampolim" pessoal sem que a pessoa realmente participe significativamente do grupo.
+Neste arquivo Markdown constam os links (ou partes de links) proibidos no DevCaminhante. Estes não necessariamente violam nossas [regras](regras.md), mas como podem ser links frequentemente usados por quem entra no grupo só com o objetivo de enviar códigos de referência, de afiliado, tokens, tracking, etc, proibi-los manterá o foco do grupo e evitará o uso do grupo como "trampolim" pessoal sem que a pessoa realmente participe significativamente do grupo.
 
 Essa lista se expandirá na mesma proporção que novos links (ou parte destes) sejam usados por potenciais spammers e/ou scammers.
 * /aff=
