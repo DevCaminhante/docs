@@ -41,6 +41,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * academind.com
 * adf.ly
 * aka.tips
+* aka.ms
 * aliexpress.com
 * alura.com.br
 * amigomoneybot
