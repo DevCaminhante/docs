@@ -42,8 +42,8 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * academiadoauditor.com.br
 * academind.com
 * adf.ly
-* aka.tips
 * aka.ms
+* aka.tips
 * aliexpress.com
 * alura.com.br
 * amigomoneybot
@@ -144,6 +144,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * next.me/mgm/
 * noneclass.com.br
 * overweb.com.br
+* p.eduzz.com
 * paidera.com
 * peoople.app/
 * plusebay.net
