@@ -22,6 +22,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * @Adm_sarah
 * @Adm_sarahbot
 * @Americaenglish9
+* @CanalReceivedsms
 * @FORIEGNINVEST
 * @GREGWELCMANN
 * @MERCADOSALDO
@@ -30,6 +31,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * @Vendedor_Oficial
 * @coletividadeevolutiva
 * @motivational_thoughtsi
+* @receivedsmsbot
 * @vagas_consultoria_TI
 * @vipsmartz01
 * _ga=
