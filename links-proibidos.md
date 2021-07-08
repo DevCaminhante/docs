@@ -167,6 +167,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * roboforex.com
 * s.kwai.app
 * seulink.net
+* shopee.com.br/product
 * shoperr.in
 * shr.link
 * sign-up?ref=
