@@ -45,6 +45,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * aka.ms
 * aka.tips
 * aliexpress.com
+* alturl.com
 * alura.com.br
 * amigomoneybot
 * amzn.to
@@ -56,6 +57,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * bamboobraz.com
 * betfair.com
 * betsoccer.top
+* binance-capital.com
 * bit.do
 * bit.ly
 * bitcoin.black
