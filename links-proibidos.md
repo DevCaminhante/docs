@@ -131,6 +131,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * labists.com
 * lnk.bio
 * lomadee.com
+* longurl.in
 * magazinevoce.com.br/
 * mediafire.com/
 * mercadolivre.com.br/
