@@ -157,8 +157,11 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * projetosrhayclick
 * pucrs.qualtrics.com
 * qr.ae
+* quarryexpounds.com
 * rb.gy
 * reactsummit.com/badge/
+* rebrandly.com
+* rebrand.ly
 * recuperacaodedadoshd.com.br
 * ref.moneyguru.co
 * ref=
