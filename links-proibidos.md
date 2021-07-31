@@ -145,6 +145,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * magazinevoce.com.br/
 * mayasatrtask.com
 * mediafire.com/
+* mega7.rio.br
 * mercadolivre.com.br/
 * meseems.com.br
 * miggster.com
@@ -246,4 +247,5 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * wasetecnologia.com.br
 * whjr.co
 * wn.nr
+* wrkbl.ink
 * xxx
