@@ -194,6 +194,7 @@ Essa lista se expandirá na mesma proporção que novos links (ou parte destes) 
 * sociali.io
 * soundcloud.com/
 * steambulk-miners.com
+* subscribe.mobeasy.com
 * superofertas.compre.vc
 * surveycircle.com
 * t.maze.design
